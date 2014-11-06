@@ -1,5 +1,1 @@
 This is my first draft.
-
-Hello world. This is my first git demo file.
-
-isn't git great?
